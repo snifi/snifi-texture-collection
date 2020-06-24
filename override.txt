@@ -1,0 +1,108 @@
+default:sandstonebrick all default_sandstone.png^brick_overlay.png
+default:desert_sandstone_brick all default_desert_sandstone.png^brick_overlay.png
+default:silver_sandstone_brick all default_silver_sandstone.png^brick_overlay.png
+
+# LV Machines
+technic:lv_alloy_furnace bottom technic_lv_machine_tube.png
+technic:lv_alloy_furnace back technic_lv_machine_tube.png
+technic:lv_alloy_furnace top technic_lv_machine_blank.png
+technic:lv_alloy_furnace left technic_lv_machine_cooling.png
+technic:lv_alloy_furnace right technic_lv_machine_cooling.png
+
+technic:lv_compressor bottom technic_lv_machine_tube.png
+technic:lv_compressor back technic_lv_machine_tube.png
+technic:lv_compressor top technic_lv_machine_blank.png
+technic:lv_compressor left technic_lv_machine_cooling.png
+technic:lv_compressor right technic_lv_machine_cooling.png
+
+technic:lv_electric_furnace bottom technic_lv_machine_tube.png
+technic:lv_electric_furnace back technic_lv_machine_tube.png
+technic:lv_electric_furnace top technic_lv_machine_blank.png
+technic:lv_electric_furnace right technic_lv_machine_cooling.png
+technic:lv_electric_furnace left technic_lv_machine_cooling.png
+
+technic:lv_grinder bottom technic_lv_machine_tube.png
+technic:lv_grinder back technic_lv_machine_tube.png
+technic:lv_grinder top technic_lv_machine_blank.png
+technic:lv_grinder left technic_lv_machine_cooling.png
+technic:lv_grinder right technic_lv_machine_cooling.png
+
+technic:lv_extractor bottom technic_lv_machine_tube.png
+technic:lv_extractor back technic_lv_machine_tube.png
+technic:lv_extractor top technic_lv_machine_blank.png
+technic:lv_extractor left technic_lv_machine_cooling.png
+technic:lv_extractor right technic_lv_machine_cooling.png
+
+technic:lv_generator bottom technic_lv_machine_tube.png
+technic:lv_generator back technic_lv_machine_tube.png
+technic:lv_generator top technic_lv_machine_blank.png
+technic:lv_generator left technic_lv_machine_cooling.png
+technic:lv_generator right technic_lv_machine_cooling.png
+
+technic:lv_battery_box top technic_lv_machine_blank.png
+technic:lv_battery_box bottom technic_lv_machine_tube.png
+
+# MV Machines
+technic:mv_extractor bottom technic_mv_machine_tube.png
+technic:mv_extractor back technic_mv_machine_tube.png
+technic:mv_extractor top technic_mv_machine_blank.png
+technic:mv_extractor left technic_mv_machine_cooling.png
+technic:mv_extractor right technic_mv_machine_cooling.png
+
+technic:mv_alloy_furnace bottom technic_mv_machine_tube.png
+technic:mv_alloy_furnace back technic_mv_machine_tube.png
+technic:mv_alloy_furnace top technic_mv_machine_blank.png
+technic:mv_alloy_furnace left technic_mv_machine_cooling.png
+technic:mv_alloy_furnace right technic_mv_machine_cooling.png
+
+technic:mv_centrifuge bottom technic_mv_machine_tube.png
+technic:mv_centrifuge back technic_mv_machine_tube.png
+technic:mv_centrifuge top technic_mv_machine_blank.png
+technic:mv_centrifuge left technic_mv_machine_cooling.png
+technic:mv_centrifuge right technic_mv_machine_cooling.png
+
+technic:mv_compressor bottom technic_mv_machine_tube.png
+technic:mv_compressor back technic_mv_machine_tube.png
+technic:mv_compressor top technic_mv_machine_blank.png
+technic:mv_compressor left technic_mv_machine_cooling.png
+technic:mv_compressor right technic_mv_machine_cooling.png
+
+technic:mv_electric_furnace bottom technic_mv_machine_tube.png
+technic:mv_electric_furnace back technic_mv_machine_tube.png
+technic:mv_electric_furnace top technic_mv_machine_blank.png
+technic:mv_electric_furnace right technic_mv_machine_cooling.png
+technic:mv_electric_furnace left technic_mv_machine_cooling.png
+
+technic:mv_generator bottom technic_mv_machine_tube.png
+technic:mv_generator back technic_mv_machine_tube.png
+technic:mv_generator top technic_mv_machine_blank.png
+technic:mv_generator left technic_mv_machine_cooling.png
+technic:mv_generator right technic_mv_machine_cooling.png
+
+technic:mv_grinder bottom technic_mv_machine_tube.png
+technic:mv_grinder back technic_mv_machine_tube.png
+technic:mv_grinder top technic_mv_machine_blank.png
+technic:mv_grinder left technic_mv_machine_cooling.png
+technic:mv_grinder right technic_mv_machine_cooling.png
+
+technic:mv_battery_box top technic_mv_machine_blank.png
+technic:mv_battery_box bottom technic_mv_machine_tube.png
+
+
+# HV Machines
+technic:hv_battery_box top technic_hv_machine_blank.png
+technic:hv_battery_box bottom technic_hv_machine_tube.png
+
+technic:hv_generator bottom technic_hv_machine_tube.png
+technic:hv_generator back technic_hv_machine_tube.png
+technic:hv_generator top technic_hv_machine_blank.png
+technic:hv_generator left technic_hv_machine_cooling.png
+technic:hv_generator right technic_hv_machine_cooling.png
+
+technic:hv_grinder bottom technic_hv_machine_tube.png
+technic:hv_grinder back technic_hv_machine_tube.png
+technic:hv_grinder top technic_hv_machine_blank.png
+technic:hv_grinder left technic_hv_machine_cooling.png
+technic:hv_grinder right technic_hv_machine_cooling.png
+
+
